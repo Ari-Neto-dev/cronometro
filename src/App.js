@@ -1,4 +1,5 @@
 import React,{Component} from 'react';
+import './style.css'
 
 class App extends Component{
   render(){
@@ -12,7 +13,7 @@ class App extends Component{
           <a className='botao'> LIMPAR </a>
 
         </div>
-        
+
       </div>
     );
   }
